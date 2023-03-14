@@ -112,6 +112,7 @@ end
 
 if operation == "mr" #mem read
     a = mem 
+    last = mem
     puts "Now first argument is #{mem}" 
 end
 
